@@ -53,6 +53,22 @@ const localQuotes = [
     },
     {
         text: 'You got to give that s**t a rest, man needs his seven hours.',
-        author: 'Paulie Walnuts'
+        author: 'Paulie Walnuts',
+    },
+    {
+        text: "Send him up!",
+        author: "Tony Soprano",
+    },
+    {
+        text: "There are a lot of things I could say that I'm not going to say!",
+        author: "Janice Soprano",
+    },
+    {
+        text: "You know, Quasimodo predicted all this",
+        author: "Bobby Baccalieri",
+    },
+    {
+        text: "Better yet, go to the ear, nose and throat department, get your hearing checked!",
+        author: "Paulie Walnuts"
     }
 ]

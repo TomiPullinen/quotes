@@ -64,7 +64,7 @@ const localQuotes = [
         author: "Janice Soprano",
     },
     {
-        text: "You know, Quasimodo predicted all this",
+        text: "You know, Quasimodo predicted all this.",
         author: "Bobby Baccalieri",
     },
     {
@@ -76,7 +76,7 @@ const localQuotes = [
         author: "Tony Soprano",
     },
     {
-        text: "There's an old italian saying: You f*ck up once, you lose two teeth",
+        text: "There's an old italian saying: You f*ck up once, you lose two teeth.",
         author: "Tony Soprano",
     },
     {

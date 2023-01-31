@@ -37,6 +37,18 @@ const localQuotes = [
     },
     {
         text: 'You probably wiped your a** barehanded when you came to this country.',
-        author: 'Paulie Walnuts'
+        author: 'Paulie Walnuts',
+    },
+    {
+        text: "Well you've must've been the top of your f*cking class.",
+        author: 'Tony Soprano',
+    },
+    {
+        text: 'No, an actual f*cking cake!',
+        author: 'John Sacrimoni',
+    },
+    {
+        text: 'Oh I wish the Lord would take me now.',
+        author: 'Livia Soprano'
     }
 ]

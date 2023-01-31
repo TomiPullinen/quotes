@@ -49,6 +49,10 @@ const localQuotes = [
     },
     {
         text: 'Oh I wish the Lord would take me now.',
-        author: 'Livia Soprano'
+        author: 'Livia Soprano',
+    },
+    {
+        text: 'You got to give that s**t a rest, man needs his seven hours.',
+        author: 'Paulie Walnuts'
     }
 ]

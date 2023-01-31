@@ -8,7 +8,7 @@ const localQuotes = [
         author: 'Christopher Moltisanti',
     },
     {
-        text: 'From now on everyday is a gift',
+        text: 'From now on everyday is a gift.',
         author: 'Tony Soprano'
     }
 ]

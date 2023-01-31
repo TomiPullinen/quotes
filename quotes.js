@@ -69,6 +69,18 @@ const localQuotes = [
     },
     {
         text: "Better yet, go to the ear, nose and throat department, get your hearing checked!",
-        author: "Paulie Walnuts"
+        author: "Paulie Walnuts",
+    },
+    {
+        text: "Whatever happened to Gary Cooper, the strong silent type?",
+        author: "Tony Soprano",
+    },
+    {
+        text: "There's an old italian saying: You f*ck up once, you lose two teeth",
+        author: "Tony Soprano",
+    },
+    {
+        text: "Just when I thought I was out, they pull me back in!",
+        author: "Silvio Dante"
     }
 ]

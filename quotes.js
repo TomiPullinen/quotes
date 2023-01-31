@@ -36,7 +36,7 @@ const localQuotes = [
         author: 'Meadow Soprano',
     },
     {
-        text: 'You probably wiped your a** barehanded when you came to this country.',
+        text: 'You probably wiped your a** barehanded before you came to this country.',
         author: 'Paulie Walnuts',
     },
     {

@@ -92,7 +92,7 @@ const localQuotes = [
         author: "Tony Soprano",
     },
     {
-        text: "How many Migs you shoot down last week?",
+        text: "How many Migs you shot down last week?",
         author: "Tony Soprano",
     },
     {

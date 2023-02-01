@@ -136,6 +136,7 @@ const localQuotes = [
         author: "Lead singer of Visiting Day",
     },
     {
-        
+        text: "There's no scraps in my scrapbook. Make it happen.",
+        author: "Phil Leotardo"
     }
 ]

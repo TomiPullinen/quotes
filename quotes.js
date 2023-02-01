@@ -81,6 +81,61 @@ const localQuotes = [
     },
     {
         text: "Just when I thought I was out, they pull me back in!",
-        author: "Silvio Dante"
+        author: "Silvio Dante",
+    },
+    {
+        text: "You probably don't even hear it when it happens, right?",
+        author: "Bobby Baccalieri",
+    },
+    {
+        text: "Well the nose is as far as I'm willing to go.",
+        author: "Tony Soprano",
+    },
+    {
+        text: "How many Migs you shoot down last week?",
+        author: "Tony Soprano",
+    },
+    {
+        text: "Where's that f*cking manicot?",
+        author: "Corrado Soprano Jr.",
+    },
+    {
+        text: "Your brother Billy, whatever happened there.",
+        author: "Carmine Lupertazzi Jr.",
+    },
+    {
+        text: "No more Butchie, no more of this.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "You distracted me, I'm taking a Mulligan.",
+        author: "Carmine Lupertazzi Sr.",
+    },
+    {
+        text: "I hate this fucking s**t!",
+        author: "Carmine Lupertazzi Sr.",
+    },
+    {
+        text: "Family? I told you, they're a glorified crew!",
+        author: "Carmine Lupertazzi Sr.",
+    },
+    {
+        text: "I compromised.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "Wes Callwell, Wes Calwell... West. Caldwell.",
+        author: "Tony Blundetto",
+    },
+    {
+        text: "Now that's a hit!",
+        author: "Hesh Rabkin",
+    },
+    {
+        text: "Thank you, but I've recorded in Denmark.",
+        author: "Lead singer of Visiting Day",
+    },
+    {
+        
     }
 ]

@@ -137,6 +137,10 @@ const localQuotes = [
     },
     {
         text: "There are no scraps in my scrapbook. Make it happen.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "I did twenty f*cking years.",
         author: "Phil Leotardo"
     }
 ]

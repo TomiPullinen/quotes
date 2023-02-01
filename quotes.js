@@ -141,6 +141,14 @@ const localQuotes = [
     },
     {
         text: "I did twenty f*cking years.",
-        author: "Phil Leotardo"
+        author: "Phil Leotardo",
+    },
+    {
+        text: "He never had the makings of a varsity athlete",
+        author: "Corrado Soprano Jr.",
+    },
+    {
+        text: "Not in the face ok? Can you give me that?",
+        author: 'Salvatore "Big Pussy" Bonpensiero'
     }
 ]

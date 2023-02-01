@@ -124,7 +124,7 @@ const localQuotes = [
         author: "Phil Leotardo",
     },
     {
-        text: "Wes Callwell, Wes Calwell... West. Caldwell.",
+        text: "Wes Calwell, Wes Calwell... West. Caldwell.",
         author: "Tony Blundetto",
     },
     {

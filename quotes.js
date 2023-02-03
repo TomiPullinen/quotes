@@ -149,6 +149,10 @@ const localQuotes = [
     },
     {
         text: "Not in the face ok? Can you give me that?",
-        author: 'Salvatore "Big Pussy" Bonpensiero'
+        author: 'Salvatore "Big Pussy" Bonpensiero',
+    },
+    {
+        text: "Peeps? It's a f*cking nickname, family name is Peparelli.",
+        author: "Tony Soprano"
     }
 ]

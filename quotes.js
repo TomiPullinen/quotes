@@ -160,7 +160,7 @@ const localQuotes = [
         author: "Christopher Moltisanti",
     },
     {
-        text: "I don't feel like I'm sitting at twelve 'o clock!",
+        text: "I don't feel like I'm sitting at twelve a clock!",
         author: "Phil Leotardo",
     },
     {

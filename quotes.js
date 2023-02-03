@@ -184,6 +184,23 @@ const localQuotes = [
         author: "Tony Soprano",
     },
     {
-        
+        text: "Poppers and weird sex!",
+        author: "Tony Soprano",
+    },
+    {
+        text: "Wow, listen to mr. mob boss.",
+        author: "Meadow Soprano",
+    },
+    {
+        text: "You got a problem besides those f*cking pants?",
+        author: "Tony Soprano",
+    },
+    {
+        text: "How about this humidity?",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "Ho finally, I started growing mushrooms out of my a**.",
+        author: "Vito Spatafore"
     }
 ]

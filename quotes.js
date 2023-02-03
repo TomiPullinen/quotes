@@ -188,7 +188,7 @@ const localQuotes = [
         author: "Tony Soprano",
     },
     {
-        text: "Wow, listen to mr. mob boss.",
+        text: "Wow, listen to Mr. Mob Boss.",
         author: "Meadow Soprano",
     },
     {
@@ -209,6 +209,34 @@ const localQuotes = [
     },
     {
         text: "She's ready to order.",
-        author: "Tony Soprano"
+        author: "Tony Soprano",
+    },
+    {
+        text: "You know that fat c*cksucker says I look like the Shah of Iran?",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "What's the matter with you? You look like a Puerto Rican whore.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "You're entitled to sh*t!",
+        author: "Tony Soprano",
+    },
+    {
+        text: "Sacre bleu, where is me mama?",
+        author: "Tony Soprano",
+    },
+    {
+        text: "Gabagool? Over here!",
+        author: "Silvio Dante",
+    },
+    {
+        text: "I GET IT!",
+        author: "Tony Soprano",
+    },
+    {
+        text: "I tell you one thing and I'm not ashamed to say it: My estimation of John Sacrimoni as a man, just f*cking plummeted.",
+        author: "Phil Leotardo"
     }
 ]

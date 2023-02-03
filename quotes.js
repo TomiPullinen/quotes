@@ -153,6 +153,37 @@ const localQuotes = [
     },
     {
         text: "Peeps? It's a f*cking nickname, family name is Peparelli.",
-        author: "Tony Soprano"
+        author: "Tony Soprano",
+    },
+    {
+        text: "He was gay Gary Cooper?",
+        author: "Christopher Moltisanti",
+    },
+    {
+        text: "I don't feel like I'm sitting at twelve 'o clock!",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "47. He was a f*cking kid.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "I guess you could call that a dick.",
+        author: "Paulie Walnuts",
+    },
+    {
+        text: "Welcome to the NFL rookie.",
+        author: "Paulie Walnuts",
+    },
+    {
+        text: "A Don doesn't wear shorts.",
+        author: "Carmine Lupertazzi Sr.",
+    },
+    {
+        text: "Wastemanagement consultant.",
+        author: "Tony Soprano",
+    },
+    {
+        
     }
 ]

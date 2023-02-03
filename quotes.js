@@ -201,6 +201,14 @@ const localQuotes = [
     },
     {
         text: "Ho finally, I started growing mushrooms out of my a**.",
-        author: "Vito Spatafore"
+        author: "Vito Spatafore",
+    },
+    {
+        text: "Easy on the sugar honey, they tell I'm sweet enough.",
+        author: "Phil Leotardo",
+    },
+    {
+        text: "She's ready to order.",
+        author: "Tony Soprano"
     }
 ]
